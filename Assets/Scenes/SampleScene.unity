@@ -864,7 +864,7 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1751702912095776850}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 3
   m_Convex: 1
@@ -1139,6 +1139,11 @@ PrefabInstance:
     - target: {fileID: 1156957176435820909, guid: 0bd2afeeec1a1a445bb3a677e2cdf4f0,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526155033650651141, guid: 0bd2afeeec1a1a445bb3a677e2cdf4f0,
+        type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
