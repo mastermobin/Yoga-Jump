@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HandRotation : MonoBehaviour
+public class LittleHandRotation : MonoBehaviour
 {
     public float speed = 5f;
     
@@ -11,6 +11,6 @@ public class HandRotation : MonoBehaviour
     void Update()
     {
         z += Time.deltaTime * speed;
-        transform.rotation = Quaternion.Euler(90, z, 0);
+        transform.rotation = Quaternion.Euler(-90, z, 0);
     }
 }
