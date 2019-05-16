@@ -171,9 +171,11 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CameraNoise.cs" t="Include" />
+          <e p="Handler.cs" t="Include" />
           <e p="HandRotation.cs" t="Include" />
           <e p="MainLogic.cs" t="Include" />
           <e p="SelfRotation.cs" t="Include" />
+          <e p="Starter.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
