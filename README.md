@@ -1,7 +1,7 @@
 # Yoga Jump
 It was our project for Game Design course consists a few game design systems.
 
-The **Demo** video can be find [Here](/Demo.mp4)
+The **Demo** video can be find [Here](/Demo.mp4).
 
 
 ### Brief description:
